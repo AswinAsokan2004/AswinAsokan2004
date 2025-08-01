@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I’m Aswin 👋
 
-<!--
-**AswinAsokan2004/AswinAsokan2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m an intern at Bytestrone focusing on AI/ML-driven mobile features. Passionate about Flutter, backend APIs, and building immersive media apps.
 
-Here are some ideas to get you started:
+## Skills
+- **Flutter & Dart**  
+- **RESTful APIs & Backend Development**  
+- **Audio/Video Media App Design**  
+- **AI/ML Features in Apps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+### Media Gesture App (Bytestrone)
+- Gesture-based input replacing traditional keyboard features
+- Designed for immersive UX and performance
+
+### Flutter Full‑Stack Projects
+- Flutter UI + Node/Express backend integration
+- Audio/video playback and library handling
+
+## Connect
+- 📧 aswinasokan200426@gmail.com  
+- LinkedIn: [linkedin.com/in/aswinasokan2004](https://in.linkedin.com/in/aswinasokan2004)
