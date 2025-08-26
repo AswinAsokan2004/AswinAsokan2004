@@ -4,6 +4,7 @@
 I’m an intern at Bytestrone focusing on AI/ML-driven mobile features. Passionate about Flutter, backend APIs, and building immersive media apps.
 
 ## Skills
+- **Agentic AI & Generative AI**
 - **Flutter & Dart**  
 - **RESTful APIs & Backend Development**  
 - **Audio/Video Media App Design**  
